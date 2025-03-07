@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'questions.apps.QuestionsConfig',  # Make sure this line exists
     'answers',
     'leaderboard',
-]
+]  
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
